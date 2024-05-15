@@ -1,5 +1,7 @@
 <img src="https://github.com/siddxharth1/images/blob/main/Orange%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&random=false&width=435&lines=Hii+there!)](https://git.io/typing-svg) 👋
+
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
