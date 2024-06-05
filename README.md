@@ -19,6 +19,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-![](https://leetcard.siddxharth.cool/lapor?ext=heatmap)
+[![](https://leetcard.jacoblin.cool/siddxharth?ext=heatmap)](https://leetcard.jacoblin.cool/siddxharth?ext=heatmap)
 
-[![Siddharth's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=<siddharth2983>)](<https://www.geeksforgeeks.org/user/siddharth2983/>)
+[![](https://geeks-for-geeks-stats-api.vercel.app/?userName=<siddharth2983>)](<https://www.geeksforgeeks.org/user/siddharth2983/>)
