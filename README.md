@@ -21,4 +21,4 @@
 
 [![](https://leetcard.jacoblin.cool/siddxharth?ext=heatmap)](https://leetcard.jacoblin.cool/siddxharth?ext=heatmap)
 
-[![](https://geeks-for-geeks-stats-api.vercel.app/?userName=<siddharth2983>)](<https://www.geeksforgeeks.org/user/siddharth2983/>)
+[![](https://geeks-for-geeks-stats-api.vercel.app/?userName=siddharth2983)](<https://www.geeksforgeeks.org/user/siddharth2983/>)
