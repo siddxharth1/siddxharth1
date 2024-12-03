@@ -19,6 +19,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
+[![An image of @siddxharth1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddxharth1)](https://holopin.io/@siddxharth1)
+
 [![](https://leetcard.jacoblin.cool/siddxharth?ext=heatmap)](https://leetcode.com/u/siddxharth/)
 
 [![](https://geeks-for-geeks-stats-api.vercel.app/?userName=siddharth2983)](<https://www.geeksforgeeks.org/user/siddharth2983/>)
