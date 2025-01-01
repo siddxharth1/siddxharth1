@@ -23,6 +23,6 @@
 
 [![](https://leetcard.jacoblin.cool/siddxharth?ext=heatmap)](https://leetcode.com/u/siddxharth/)
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30866%26project%3D%26in=0)](https://codetime.dev)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30866%26project%3D%26in=0)]
 
 [![](https://geeks-for-geeks-stats-api.vercel.app/?userName=siddharth2983)](<https://www.geeksforgeeks.org/user/siddharth2983/>)
